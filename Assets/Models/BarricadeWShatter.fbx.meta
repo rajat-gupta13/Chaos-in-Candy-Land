@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 58229b660e6172a4abd41c7b758ade19
+timeCreated: 1509392053
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BarricadeNormal
+    100002: //RootNode
+    100004: BarricadeWShatter
+    100006: KitCatBottomShatter
+    100008: KitKatMiddleShatter
+    100010: KitKatSupport3Shatter
+    100012: KitKatSupport4Shatter
+    100014: KitKatSupportShatter1
+    100016: KitKatSupportShatter2
+    100018: KitKatTopShatter
+    100020: shard1
+    100022: shard10
+    100024: shard11
+    100026: shard12
+    100028: shard13
+    100030: shard14
+    100032: shard15
+    100034: shard16
+    100036: shard16 1
+    100038: shard17
+    100040: shard17 1
+    100042: shard18
+    100044: shard18 1
+    100046: shard19
+    100048: shard19 1
+    100050: shard2
+    100052: shard20
+    100054: shard20 1
+    100056: shard21
+    100058: shard22
+    100060: shard23
+    100062: shard24
+    100064: shard25
+    100066: shard26
+    100068: shard27
+    100070: shard28
+    100072: shard29
+    100074: shard3
+    100076: shard30
+    100078: shard4
+    100080: shard5
+    100082: shard6
+    100084: shard7
+    100086: shard8
+    100088: shard9
+    100090: solidShatter1
+    100092: solidShatter2
+    100094: solidShatter3
+    100096: solidShatter4
+    100098: solidShatter4 1
+    100100: solidShatter5
+    100102: solidShatter6
+    400000: BarricadeNormal
+    400002: //RootNode
+    400004: BarricadeWShatter
+    400006: KitCatBottomShatter
+    400008: KitKatMiddleShatter
+    400010: KitKatSupport3Shatter
+    400012: KitKatSupport4Shatter
+    400014: KitKatSupportShatter1
+    400016: KitKatSupportShatter2
+    400018: KitKatTopShatter
+    400020: shard1
+    400022: shard10
+    400024: shard11
+    400026: shard12
+    400028: shard13
+    400030: shard14
+    400032: shard15
+    400034: shard16
+    400036: shard16 1
+    400038: shard17
+    400040: shard17 1
+    400042: shard18
+    400044: shard18 1
+    400046: shard19
+    400048: shard19 1
+    400050: shard2
+    400052: shard20
+    400054: shard20 1
+    400056: shard21
+    400058: shard22
+    400060: shard23
+    400062: shard24
+    400064: shard25
+    400066: shard26
+    400068: shard27
+    400070: shard28
+    400072: shard29
+    400074: shard3
+    400076: shard30
+    400078: shard4
+    400080: shard5
+    400082: shard6
+    400084: shard7
+    400086: shard8
+    400088: shard9
+    400090: solidShatter1
+    400092: solidShatter2
+    400094: solidShatter3
+    400096: solidShatter4
+    400098: solidShatter4 1
+    400100: solidShatter5
+    400102: solidShatter6
+    2300000: BarricadeNormal
+    2300002: KitCatBottomShatter
+    2300004: KitKatMiddleShatter
+    2300006: KitKatSupport3Shatter
+    2300008: KitKatSupport4Shatter
+    2300010: KitKatSupportShatter1
+    2300012: KitKatSupportShatter2
+    2300014: KitKatTopShatter
+    2300016: shard1
+    2300018: shard10
+    2300020: shard11
+    2300022: shard12
+    2300024: shard13
+    2300026: shard14
+    2300028: shard15
+    2300030: shard16
+    2300032: shard16 1
+    2300034: shard17
+    2300036: shard17 1
+    2300038: shard18
+    2300040: shard18 1
+    2300042: shard19
+    2300044: shard19 1
+    2300046: shard2
+    2300048: shard20
+    2300050: shard20 1
+    2300052: shard21
+    2300054: shard22
+    2300056: shard23
+    2300058: shard24
+    2300060: shard25
+    2300062: shard26
+    2300064: shard27
+    2300066: shard28
+    2300068: shard29
+    2300070: shard3
+    2300072: shard30
+    2300074: shard4
+    2300076: shard5
+    2300078: shard6
+    2300080: shard7
+    2300082: shard8
+    2300084: shard9
+    3300000: BarricadeNormal
+    3300002: KitCatBottomShatter
+    3300004: KitKatMiddleShatter
+    3300006: KitKatSupport3Shatter
+    3300008: KitKatSupport4Shatter
+    3300010: KitKatSupportShatter1
+    3300012: KitKatSupportShatter2
+    3300014: KitKatTopShatter
+    3300016: shard1
+    3300018: shard10
+    3300020: shard11
+    3300022: shard12
+    3300024: shard13
+    3300026: shard14
+    3300028: shard15
+    3300030: shard16
+    3300032: shard16 1
+    3300034: shard17
+    3300036: shard17 1
+    3300038: shard18
+    3300040: shard18 1
+    3300042: shard19
+    3300044: shard19 1
+    3300046: shard2
+    3300048: shard20
+    3300050: shard20 1
+    3300052: shard21
+    3300054: shard22
+    3300056: shard23
+    3300058: shard24
+    3300060: shard25
+    3300062: shard26
+    3300064: shard27
+    3300066: shard28
+    3300068: shard29
+    3300070: shard3
+    3300072: shard30
+    3300074: shard4
+    3300076: shard5
+    3300078: shard6
+    3300080: shard7
+    3300082: shard8
+    3300084: shard9
+    4300000: KitCatBottomShatter
+    4300002: shard1
+    4300004: shard2
+    4300006: shard3
+    4300008: shard4
+    4300010: shard5
+    4300012: KitKatMiddleShatter
+    4300014: shard6
+    4300016: shard7
+    4300018: shard8
+    4300020: shard9
+    4300022: shard10
+    4300024: KitKatTopShatter
+    4300026: shard11
+    4300028: shard12
+    4300030: shard13
+    4300032: shard14
+    4300034: shard15
+    4300036: KitKatSupportShatter1
+    4300038: shard16
+    4300040: shard17
+    4300042: shard18
+    4300044: shard19
+    4300046: shard20
+    4300048: KitKatSupportShatter2
+    4300050: shard16
+    4300052: shard17
+    4300054: shard18
+    4300056: shard19
+    4300058: shard20
+    4300060: KitKatSupport3Shatter
+    4300062: shard21
+    4300064: shard22
+    4300066: shard23
+    4300068: shard24
+    4300070: shard25
+    4300072: KitKatSupport4Shatter
+    4300074: shard26
+    4300076: shard27
+    4300078: shard28
+    4300080: shard29
+    4300082: shard30
+    4300084: BarricadeNormal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 3342a40014f2973468fd295694b5f1dd
+timeCreated: 1509345738
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cupcake
+    100004: cupcake1
+    100006: cupcake_base
+    100008: cupcake_base1
+    100010: pCylinder1
+    100012: pCylinder2
+    100014: pCylinder3
+    100016: pPlane1
+    100018: pPlane2
+    100020: pPlane3
+    100022: pPlane4
+    100024: pSphere1
+    100026: transform1
+    100028: transform10
+    100030: transform11
+    100032: transform12
+    100034: transform13
+    100036: transform2
+    100038: transform3
+    100040: transform4
+    100042: transform5
+    100044: transform6
+    100046: transform7
+    100048: transform8
+    100050: transform9
+    100052: whipped_cream
+    100054: whipped_cream2
+    100056: whipped_cream3
+    400000: //RootNode
+    400002: cupcake
+    400004: cupcake1
+    400006: cupcake_base
+    400008: cupcake_base1
+    400010: pCylinder1
+    400012: pCylinder2
+    400014: pCylinder3
+    400016: pPlane1
+    400018: pPlane2
+    400020: pPlane3
+    400022: pPlane4
+    400024: pSphere1
+    400026: transform1
+    400028: transform10
+    400030: transform11
+    400032: transform12
+    400034: transform13
+    400036: transform2
+    400038: transform3
+    400040: transform4
+    400042: transform5
+    400044: transform6
+    400046: transform7
+    400048: transform8
+    400050: transform9
+    400052: whipped_cream
+    400054: whipped_cream2
+    400056: whipped_cream3
+    2300000: cupcake_base1
+    2300002: pPlane1
+    3300000: cupcake_base1
+    3300002: pPlane1
+    4300000: pPlane1
+    4300002: cupcake_base1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

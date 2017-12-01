@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b98ae172e2099004ea237e23e5025a5e
+timeCreated: 1509414107
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: chocolate type bold spaced
+  fontNames:
+  - chocolate type bold spaced
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
